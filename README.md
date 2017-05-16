@@ -1,10 +1,5 @@
 # Cupcakes
 
-# .NETPortfolio
-
-
-#### _Use .NET and Github API to make a personal portfolio, 5.12.17_
-
 #### By _**Katy Daviscourt and Shane Villars**_
 
 ## Description
@@ -33,4 +28,3 @@ _HTML, CSS_
 *This software is licensed under the MIT license*
 
 Copyright (c) 2017 **_Katy Daviscourt_**
- Katy Daviscourt and Shane Villars
